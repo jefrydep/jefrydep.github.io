@@ -374,6 +374,10 @@ h5 {
     /* background-color: antiquewhite; */
   }
   .services__content{
+    background: #000;
+    /* text-align: center; */
+    /* justify-items: center; */
+    justify-content: center;
     display: grid;
     /* grid-column:3 (fr) ; */
     grid-template-columns: repeat(3,minmax(200px,400px));
