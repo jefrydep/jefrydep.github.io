@@ -349,7 +349,8 @@ h5 {
 
 @media screen and (min-width: 650px) {
   .fa {
-    display: none;
+    /* display: none; */
+    visibility: hidden;
   }
   .nav__movil {
     display: none;
