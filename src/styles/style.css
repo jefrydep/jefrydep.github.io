@@ -87,9 +87,11 @@ a {
   /* text-align: end; */
   margin-right: 1rem;
   margin-left: 1rem;
-  font-size: 3rem;
+  width: 3rem;
+  /* font-size: 3rem; */
   margin-top: 10px;
   color: white;
+  /* background-color: red; */
   /* align-self: self-end; */
   /* background-color: red; */
 }
